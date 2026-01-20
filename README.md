@@ -1,4 +1,4 @@
-# Solución Prueba Técnica IA - SUMMA (Grupo Argos) 🚀
+# Solución Prueba Técnica IA - SUMMA (Grupo Argos)
 
 Este repositorio contiene una solución integral que combina Machine Learning, Series de Tiempo y un Agente de IA con arquitectura MCP.
 
@@ -28,5 +28,6 @@ Acceda a http://localhost:8005/docs para probar el endpoint /predict.
 
 ```bash
 python ia_agent.py
+
 
 
