@@ -22,11 +22,12 @@ pip install -r requirements.txt
 python main.py
 
 Acceda a http://localhost:8005/docs para probar el endpoint /predict.
-```bash
+
 
 ```
 ### 3. Ejecutar el Agente de Consulta
 
 ```
 python ia_agent.py
-```bash
+
+
