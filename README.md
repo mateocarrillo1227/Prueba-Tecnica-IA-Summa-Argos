@@ -28,6 +28,3 @@ Acceda a http://localhost:8005/docs para probar el endpoint /predict.
 
 ```bash
 python ia_agent.py
-
-
-
