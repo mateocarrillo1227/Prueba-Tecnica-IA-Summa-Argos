@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ### 2. Iniciar la API de Clasificación
 
-```
+```bash
 python main.py
 
 Acceda a http://localhost:8005/docs para probar el endpoint /predict.
@@ -27,7 +27,8 @@ Acceda a http://localhost:8005/docs para probar el endpoint /predict.
 ```
 ### 3. Ejecutar el Agente de Consulta
 
-```
+```bash
 python ia_agent.py
+
 
 
